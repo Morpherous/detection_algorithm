@@ -1,0 +1,12 @@
+visdom
+torchvision
+scikit-image
+tqdm
+fire
+pprint
+matplotlib
+ipdb
+cython
+torchnet
+cupy-cuda101
+pillow==6.1
